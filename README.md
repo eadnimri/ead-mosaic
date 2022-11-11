@@ -1,5 +1,3 @@
-# Ead's mosaic 
-
 Hi I am Ead, a 24 year artist! I work on painting and mosaic arts.
 
 <p align="center">
