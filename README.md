@@ -1,16 +1,11 @@
-Hi I am <u>Ead</u>, a 24 year old artist! 
-
-I work on painting and mosaic arts.
-
+Hi I am **Ead**, a 24 year old artist! <br /> I work on paintings and mosaic arts.
 <p align="center">
   <img src="ead.PNG" />
 </p>
 
 <hr/>
 
-
 <h2> Here are some of my work <h2>
-
 
 | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
@@ -21,7 +16,6 @@ I work on painting and mosaic arts.
 | <img width="1604" src="D6E068E4-136A-472C-9A3F-2A6D3C95C740.jpeg"> |  <img width="1604" src="C9C109BC-7E85-4FC1-9770-04F23A884D98.jpeg"> | | 
 
 <hr/>
-
 
 Follow me on [Instagram](https://www.instagram.com/eadsmosaics/?hl=en) to keep up with me. 
   
