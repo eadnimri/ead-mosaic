@@ -5,7 +5,7 @@ Hi I am **Ead**, a 24 year old artist! <br /> I work on paintings and mosaic art
 
 <hr/>
 
-<h2> Here are some of my work <h2>
+Here are some of my work:
 
 | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
