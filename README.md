@@ -1,4 +1,7 @@
-Hi I am **Ead**, a 24 year old artist! <br /> I work on paintings and mosaic arts.
+<h1> Hi I am Ead, a 24 year old Mosaic Teacher and Artist! </h1> 
+
+<h6>I work on paintings and mosaic arts and all of the pieces are handmade by me. </h6>
+
 <p align="center">
   <img src="ead.PNG" />
 </p>
@@ -17,6 +20,6 @@ Here are some of my work:
 
 <hr/>
 
-Follow me on [Instagram](https://www.instagram.com/eadsmosaics/?hl=en) to keep up with me. 
+<h6>Follow me on [Instagram](https://www.instagram.com/eadsmosaics/?hl=en) to keep up with me.</h6> 
   
-DM me for more details!
+<h6>DM me for more details and for custom orders!</h6>
