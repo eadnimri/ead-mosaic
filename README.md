@@ -7,6 +7,7 @@ I work on painting and mosaic arts.
 </p>
 
 <hr/>
+
 <h2> Here are some of my work <h2>
   
 | | | |
