@@ -1,4 +1,4 @@
-Hi I am Ead, a 24 year artist!
+<h1> Hi I am <u>Ead</u>, a 24 year artist! </h1>
 
 I work on painting and mosaic arts.
 
