@@ -3,7 +3,7 @@
 Hi I am Ead, a 24 year artist! I work on painting and mosaic arts.
 
 <p align="center">
-  <img src="ead.png" />
+  <img src="ead.PNG" />
 </p>
 
 <hr/>
