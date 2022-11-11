@@ -3,7 +3,7 @@
 <h6>I work on paintings and mosaic arts and all of the pieces are handmade by me. </h6>
 
 <p align="center">
-  <img src="ead.PNG" />
+  <img src="646B010D-38BA-4CDE-BCAE-0F25E41C05E2.jpeg" />
 </p>
 
 <hr/>
