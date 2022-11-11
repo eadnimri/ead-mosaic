@@ -20,6 +20,6 @@ Here are some of my work:
 
 <hr/>
 
-<h6>Follow me on [Instagram](https://www.instagram.com/eadsmosaics/?hl=en) to keep up with me.</h6> 
+Follow me on [Instagram](https://www.instagram.com/eadsmosaics/?hl=en) to keep up with me.
   
 <h6>DM me for more details and for custom orders!</h6>
