@@ -5,15 +5,15 @@
 body {
   padding: 0;
   margin: 0; 
-  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serief;
-  font-szie: 16px;;
+  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 16px;
   line-height: 1.5;
-  color: #606c71
+  color: #606c71;
 }
 
 a {
   color: #1e6bb8;
-  text-decoration: none
+  text-decoration: none;
 }
 
 a:hover {
@@ -28,7 +28,7 @@ a:hover {
   border-color: rgba(255, 255, 255, 0.2);
   border-style: solid;
   border-width: 1px;
-  border-radius: 0.3 rem;
+  border-radius: 0.3rem;
   transition: color 0.2s, background-color 0.2s, border-color: 0.2s;
 }
 
@@ -43,25 +43,25 @@ a:hover {
   border-color: rgba(255, 255, 255, 0.3);
 }
 
-@media screen and (min-width: 64 em) {
+@media screen and (min-width: 64em) {
   .btn {
     padding: 0.75rem 1rem;
   }
 }
 
-@media screen and (min-width: 42 em) and (max-width: 64 em) {
+@media screen and (min-width: 42em) and (max-width: 64em) {
   .btn {
     padding: 0.6rem 0.9rem;
     font-size: 0.9rem;
   }
 }
 
-@media screen and (max-width: 42 em) {
+@media screen and (max-width: 42em) {
   .btn {
     display: block;
     width: 100%;
-    padding: 0.75 rem;
-    font-size: 0.9 rem;
+    padding: 0.75rem;
+    font-size: 0.9rem;
   }
   .btn + .btn {
     margin-top: 1rem;
@@ -71,7 +71,7 @@ a:hover {
 
 .page-header {
   color: #fff;
-  test-align: center;
+  text-align: center;
   background-color: #159957;
   background-image: linear-gradient(120deg, #155799, #159957);
 }
@@ -270,12 +270,12 @@ a:hover {
   font-weight: bold;
 }
 
-.main-content dl dd (
+.main-content dl dd {
   padding: 0;
   margin-bottom: 1rem;
 }
 
-.main-content hr (
+.main-content hr {
   height: 2px;
   padding: 0;
   margin: 1rem 0;
