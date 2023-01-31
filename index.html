@@ -13,7 +13,6 @@
     <section class="page-header">
       <h1 class="project-name">Ead's mosaic</h1>
       <h2 class="project-tagline">Hi I am Ead, a 24 year old Mosaic Teacher and Artist!</h2>
-      <a href="./gallery" class="btn">Gallery</a>
       <a href="https://instagram.com/eadsmosaics" class="btn" target="_blank">Follow me on Instagram</a>
     </section>
     <section class="main-content">
@@ -23,105 +22,48 @@
       </p>
       <hr/>
       <h4>Here some of my work</h4>
-      
-      <div class="container">
-        <div class="mySlides">
-          <div class="numbertext">1 / 6</div>
-          <img src="images/art-01.PNG" style="width:100%">
-        </div>
-
-        <div class="mySlides">
-          <div class="numbertext">2 / 6</div>
-          <img src="images/art-02.PNG" style="width:100%">
-        </div>
-
-        <div class="mySlides">
-          <div class="numbertext">3 / 6</div>
-          <img src="images/art-03.PNG" style="width:100%">
-        </div>
-
-        <div class="mySlides">
-          <div class="numbertext">4 / 6</div>
-          <img src="images/art-04.jpeg" style="width:100%">
-        </div>
-
-        <div class="mySlides">
-          <div class="numbertext">5 / 6</div>
-          <img src="images/art-05.jpeg" style="width:100%">
-        </div>
-
-        <div class="mySlides">
-          <div class="numbertext">6 / 6</div>
-          <img src="images/art-06.jpeg" style="width:100%">
-        </div>
-
-        <a class="prev" onclick="plusSlides(-1)">❮</a>
-        <a class="next" onclick="plusSlides(1)">❯</a>
-
-        <div class="caption-container">
-          <p id="caption"></p>
-        </div>
-
-        <div class="row">
-          <div class="column">
-            <img class="demo cursor" src="images/art-01.PNG" style="width:100%" onclick="currentSlide(1)" alt="Art 01">
-          </div>
-          <div class="column">
-            <img class="demo cursor" src="images/art-02.PNG" style="width:100%" onclick="currentSlide(2)" alt="Art 02">
-          </div>
-          <div class="column">
-            <img class="demo cursor" src="images/art-03.PNG" style="width:100%" onclick="currentSlide(3)" alt="Art 03">
-          </div>
-          <div class="column">
-            <img class="demo cursor" src="images/art-04.jpeg" style="width:100%" onclick="currentSlide(4)" alt="Art 04">
-          </div>
-          <div class="column">
-            <img class="demo cursor" src="images/art-05.jpeg" style="width:100%" onclick="currentSlide(5)" alt="Art 05">
-          </div>    
-          <div class="column">
-            <img class="demo cursor" src="images/art-06.jpeg" style="width:100%" onclick="currentSlide(6)" alt="Art 06">
-          </div>
-        </div>
-      </div>
-
-      <h4>Check my full work <a href="./gallery.html">here</a></h4>
+      <table>
+        <tr>
+          <td><img width="1604" src="images/art-01.PNG"></td>
+          <td><img width="1604" src="images/art-02.PNG"></td>
+          <td><img width="1604" src="images/art-03.PNG"></td>
+        </tr>
+        <tr>
+          <td><img width="1604" src="images/art-04.jpeg"></td>
+          <td><img width="1604" src="images/art-05.jpeg"></td>
+          <td><img width="1604" src="images/art-06.jpeg"></td>
+        </tr>
+        <tr>
+          <td><img width="1604" src="images/art-07.jpeg"></td>
+          <td><img width="1604" src="images/art-08.jpeg"></td>
+          <td><img width="1604" src="images/art-09.jpeg"></td>
+        </tr>
+        <tr>
+          <td><img width="1604" src="images/art-10.png"></td>
+          <td><img width="1604" src="images/art-11.jpeg"></td>
+          <td><img width="1604" src="images/art-12.png"></td>
+        </tr>
+        <tr>
+          <td><img width="1604" src="images/art-13.jpeg"></td>
+          <td><img width="1604" src="images/art-14.jpeg"></td>
+          <td><img width="1604" src="images/art-15.jpg"></td>
+        </tr>
+        <tr>
+          <td><img width="1604" src="images/art-16.jpg"></td>
+          <td><img width="1604" src="images/art-17.jpg"></td>
+          <td><img width="1604" src="images/art-18.jpg"></td>
+        </tr>
+        <tr>
+          <td><img width="1604" src="images/art-19.png"></td>
+          <td><img width="1604" src="images/art-20.png"></td>
+          <td></td>
+        </tr>
+      </table>
       <footer class="site-footer">
         <span class="site-footer-owner">
           <a href="https://eadnimri.github.io/ead-mosaic"> Ead's Mosaic</a> is maintained by Ead.
         </span>
       </footer>
     </section>
-
-    <script>
-      let slideIndex = 1;
-      showSlides(slideIndex);
-
-      function plusSlides(n) {
-        showSlides(slideIndex += n);
-      }
-
-      function currentSlide(n) {
-        showSlides(slideIndex = n);
-      }
-
-      function showSlides(n) {
-        let i;
-        let slides = document.getElementsByClassName("mySlides");
-        let dots = document.getElementsByClassName("demo");
-        let captionText = document.getElementById("caption");
-        if (n > slides.length) {slideIndex = 1}
-        if (n < 1) {slideIndex = slides.length}
-        for (i = 0; i < slides.length; i++) {
-          slides[i].style.display = "none";
-        }
-        for (i = 0; i < dots.length; i++) {
-          dots[i].className = dots[i].className.replace(" active", "");
-        }
-        slides[slideIndex-1].style.display = "block";
-        dots[slideIndex-1].className += " active";
-        captionText.innerHTML = dots[slideIndex-1].alt;
-      }
-    </script>
   </body>
 </html>
-
